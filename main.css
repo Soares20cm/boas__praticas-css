@@ -31,7 +31,7 @@
     color: rgb(172, 166, 166);
 }
 
-.produto__destaque { /* modificador */
+.produto--destaque { /* modificador */
     border: 10px solid rgb(26, 23, 10);
     padding: 8px;
     background-color: #ffff42;
